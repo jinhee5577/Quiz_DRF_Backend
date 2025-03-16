@@ -1,10 +1,10 @@
 # 💡퀴즈 응시 시스템 개발 프로젝트 repository 입니다.
 
 ## 🛠️ 개발 스택.
-- Backend framework : DRF(Django REST Framework)
-- Frontend Library : React
-- rdbms : PostgreSQL
-- 의존성 관리 : poetry
+- ### Backend framework : DRF(Django REST Framework)
+- ### Frontend Library : React
+- ### rdbms : PostgreSQL
+- ### 의존성 관리 : poetry
 
 
 ## 💻 Quiz-App 화면페이지 입니다.
