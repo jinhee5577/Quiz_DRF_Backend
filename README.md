@@ -2,7 +2,7 @@
 
 ## 🛠️ 개발 스택.
 - ### Backend framework : DRF(Django REST Framework)
-- ### Frontend Library : React
+- ### Frontend Library : React.js
 - ### rdbms : PostgreSQL
 - ### 의존성 관리 : poetry
 
