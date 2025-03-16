@@ -1,0 +1,25 @@
+[project]
+name = "quiz-app"
+version = "0.1.0"
+description = ""
+authors = [
+    {name = "ohjinhee",email = "riricos153@naver.com"}
+]
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "django (>=5.1.7,<6.0.0)",
+    "djangorestframework (>=3.15.2,<4.0.0)",
+    "psycopg2 (>=2.9.10,<3.0.0)",
+    "psycopg2-binary (>=2.9.10,<3.0.0)",
+    "django-cors-headers (>=4.7.0,<5.0.0)",
+    "djangorestframework-simplejwt (>=5.5.0,<6.0.0)"
+]
+
+[tool.poetry]
+packages = [{include = "quiz_app", from = "src"}]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
