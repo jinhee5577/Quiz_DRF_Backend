@@ -5,6 +5,7 @@
 - ### Frontend Library : React.js
 - ### rdbms : PostgreSQL
 - ### 의존성 관리 : poetry
+- ### JWT 인증
 
 <br/>
 
